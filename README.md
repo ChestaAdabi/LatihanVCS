@@ -27,13 +27,13 @@ $ git config --global user.name "username yg anda buat di github"
 $ git config --global user.email "email yg anda pakai untuk github"
 ```
 - contohnya seperti ini:
--  ![undefined - Imgur](1_VCS.png)
+- !![git - Imgur (1)](https://github.com/ChestaAdabi/LatihanVCS/blob/main/1%20vcs.png)
 - lalu ketik command:
 ```
 $ git config --list
 ```
 - maka akan muncul seperti ini:
--  ![git - Imgur (1)](https://github.com/user-attachments/assets/387411e9-e20a-4f71-ac8c-6fb6b25cf133)
+-  ![git - Imgur (1)](https://github.com/ChestaAdabi/LatihanVCS/blob/main/2%20vcs.png)
 
 
 jika username dan email terisi sesuai yg anda ketik berarti berhasil
@@ -59,7 +59,7 @@ setelah itu commit dengan cara :
 $ git commit -m "komentar"
 ```
 - contohnya seperti ini:
-- ![git - Imgur (3)](https://github.com/user-attachments/assets/5e0ac3bb-5ad1-45cb-b70e-3bff8e8b2b67)
+- ![git - Imgur (3)](https://github.com/ChestaAdabi/LatihanVCS/blob/main/3%20vcs.png)
 
 lalu ketik:
 ```
@@ -68,7 +68,7 @@ $ git remote add origin "link url repository di github"
 contoh bisa dilihat di gambar sebelumnya
 untuk mendapatkan link repository yg anda buat anda tinggal ke akun github anda
 - klik repository yg anda buat
-- ![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7)
+- ![posting - Imgur](https://github.com/ChestaAdabi/LatihanVCS/blob/main/4%20VCS.png)
 
 
 - lalu klik klik copy or download
