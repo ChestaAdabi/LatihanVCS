@@ -27,7 +27,7 @@ $ git config --global user.name "username yg anda buat di github"
 $ git config --global user.email "email yg anda pakai untuk github"
 ```
 - contohnya seperti ini:
--  ![undefined - Imgur](https://github.com/user-attachments/assets/253c8ba6-1bf6-40b6-9585-728c5b10b280)
+-  ![undefined - Imgur](1_VCS.png)
 - lalu ketik command:
 ```
 $ git config --list
